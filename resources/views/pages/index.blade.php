@@ -19,7 +19,7 @@
                 <div class="col-md-6">
                     <div class="service-right pl-5">
                         <div class="section-heading">
-                            <h2 class="text-left"> Our Branns:</h2>
+                            <h2 class="text-left"> Our Brands:</h2>
                         </div>
                         <div class="para-text">
                             <p>
