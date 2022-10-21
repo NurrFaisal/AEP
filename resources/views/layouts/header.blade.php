@@ -6,7 +6,7 @@
         <a style="font-weight: 600; font-size: 17px" href="{{route('home')}}">Home</a>
         {{-- <a style="font-weight: 600; font-size: 17px" href="{{route('home')}}">Who we are</a> --}}
         <a style="font-weight: 600; font-size: 17px" href="{{route('brand')}}">Brands</a>
-        <a style="font-weight: 600; font-size: 17px" href="{{route('about')}}">Who we are</a>
+        <a style="font-weight: 600; font-size: 17px" href="{{route('about')}}">About Us</a>
         <a style="font-weight: 600; font-size: 17px" href="{{route('contact')}}">Contact</a>
 {{--        <a href="#about" style="float:right;padding: 24px 2px;"><i class="fas fa-search"></i></a>--}}
 {{--        <a href="#about" style="float:right;padding: 24px 2px;"><i class="fa fa-user-circle-o"></i></a>--}}

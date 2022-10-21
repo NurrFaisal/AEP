@@ -288,7 +288,7 @@ div {
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    
                 </div>
                 <ul class="timeline">
                     <li>
@@ -298,9 +298,11 @@ div {
                                 <h4 class="subheading">Our Company</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">
-                                A.E.P Gloobal Ltd is an ORM Mining equipment, paets and components company. We represent bands such as 
-                                Caterpillat, Volvo, Cummins, Terex, Komatsu, Sandvik and Perkins among others. We support Gloval Mining Operations by diverting all of our resources exclusively to the Industry in which we serve. A.E.P Global Ltd supports most Major OEM Equipment Manufacturers by providing technical support and personal service to meet individual operation needs.
-                            </p></div>
+                              <p style="text-align: justify; color:#e9ecef">
+                                We, A.E.P INc are a reseller of heavy equipment and machinery parts for Mining, Marin, and Off-road. 
+ We represent bands such as Caterpillar, John Deere, Genie, JLG, Komatsu, Bobcat, Case, JCB, Hyundai, Doosan, Cummins, New Holland, Donaldson, Atlas Copco, Detroit Diesel, Allison Transmission, Volvo, Sandvik,  Mack and Kenworth among others.
+                            </p>
+                            </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -310,9 +312,12 @@ div {
                                 <h4 class="subheading">Our mission</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">
+                            
+                            <p style="text-align: justify; color:#e9ecef">
                             Our Mission is to provide un-parallel customer support backed by products manufacturers to meet the most rigid 
-                            environments. We strive to provide cost efficiency and added value through reduced lead times, lower down time_sleep_untiland fulll warranty support. We are a leader in our industry and continually strrive to peovide both goods and services backed with flexible finance options based on individual operational requirememnts. Our support is unconditional and our aim is to make your success the foundation of ours. 
-                            </p></div>
+                            environments. We strive to provide cost efficiency and added value through reduced lead times.
+                            </p>
+                            </div>
                         </div>
                     </li>
                 </ul>

@@ -27,11 +27,31 @@
                             </p>
                         </div>
                         <ul class="list-style-cm">
-                            <li>Welding and Cutting</li>
-                            <li>Fabrication and Engineering</li>
-                            <li>Coded Welding</li>
-                            <li>Hydrostatic Testing</li>
-                            <li>Basic Machining</li>
+                            <li>Caterpillar</li>
+                            <li>John Deere</li>
+                            <li>Genie</li>
+                            <li>JLG</li>
+                            <li>Komatsu</li>
+                            <li>Bobcat</li>
+                            <li>Case</li>
+                            <li>JCB</li>
+                            <li>Hyundai</li>
+                            <li>New Holland</li>
+                            <li>Doosan</li>
+
+                            <li>Cummins</li>
+                            <li>Terex</li>
+                            <li>Donaldson</li>
+                            <li>Atlas Copco</li>
+                            <li>Detroit Diesel</li>
+                            <li>Volvo Trucks</li>
+                            <li>Sandvik</li>
+                            <li>Allison Transmission</li>
+                            <li>Mack</li>
+                            <li>Kenworth</li>
+
+                            
+                        
                         </ul>
                     </div>
                 </div>

@@ -160,7 +160,6 @@ padding-left: 0;
               <div class="contact-info-text">
                 <h2>Connect</h2>
                 <span>Telephone: (913) 406-1044</span>
-                <span>Fax: (913) 393-1400</span>
               </div>
             </div>            
           </div>          
