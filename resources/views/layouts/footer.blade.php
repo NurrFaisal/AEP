@@ -338,7 +338,7 @@
                     <img src="{{URL::to('/assets/images/aep-logo2.png')}}" alt="Brand logo"  style="object-fit: cover;">
                 </div></div>
             <div id="copyright-text">
-                &copy; AEAP Inc. 2022. All rights reserved. Email : sales@aep-usa.com Phone : (913) 406-1044
+                &copy; A.E.P Inc. 2022. All rights reserved. Email : sales@aep-usa.com Phone : (913) 406-1044
             </div>
             <div id="social-buttons">
                 <img src="https://img.icons8.com/ios-filled/25/999999/facebook--v1.png"/><img src="https://img.icons8.com/ios-filled/25/999999/telegram-app.png"/><img src="https://img.icons8.com/ios-filled/25/999999/pinterest--v1.png"/><img src="https://img.icons8.com/ios-filled/25/999999/instagram--v1.png"/>
