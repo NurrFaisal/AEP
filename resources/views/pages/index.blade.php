@@ -38,6 +38,7 @@
                             <li>Hyundai</li>
                             <li>New Holland</li>
                             <li>Doosan</li>
+                            <li>Perkins</li>
 
                             <li>Cummins</li>
                             <li>Terex</li>

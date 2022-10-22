@@ -91,6 +91,13 @@
                 </div>
                 <div class="col-md-2 mt-4">
                     <div class="each-brands">
+                        <a target="_blank" href="https://www.doosan.com/">
+                            <img src="{{asset('/assets/images/brands/b22.png')}}" alt="brand images">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2 mt-4">
+                    <div class="each-brands">
                         <a target="_blank" href="https://www.cummins.com/">
                             <img src="{{asset('/assets/images/brands/b1.png')}}" alt="brand images">
                         </a>
@@ -159,6 +166,7 @@
                         </a>
                     </div>
                 </div>
+                
             </div>
         </div>
     </div>
